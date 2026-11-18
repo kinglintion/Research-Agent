@@ -1,0 +1,1 @@
+"""Research copilot API application."""
